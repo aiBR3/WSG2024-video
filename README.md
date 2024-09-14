@@ -2,7 +2,7 @@
 
 Copiare questi indirizzi e incollarli nel *browser* per guardare la trasmissione **senza bisogno di un account**.
 
-Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/) (o su applicazioni simili) per [registrare](#registrare-con-vlc) il video nel computer.
+Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/) (o su applicazioni simili) per registrare il video nel computer ([istruzioni](#registrare-con-vlc)).
 
 ## FISR TV ([link al sito](https://fisrtv.it/))
 
