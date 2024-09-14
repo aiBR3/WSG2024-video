@@ -17,7 +17,9 @@ Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/
 
 ### World Skate TV
 
-La World Skate permette il download diretto di queste registrazioni.
+<img src="README/wsg2024.jpeg" width="300 rem">
+
+La World Skate permette il download diretto di queste registrazioni (dalla più recente alla più vecchia pubblicata):
 
 | LINGUA | TITOLO | INDIRIZZO |
 |---|---|---|
