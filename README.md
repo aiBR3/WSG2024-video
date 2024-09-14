@@ -37,12 +37,9 @@ La World Skate permette il download diretto di queste registrazioni video.
 | Spagnolo | 5000 m Junior Men Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=aa9446ad24a6-140924-101230-livees.mp4) |
 | Spagnolo | 5000 m Junior Women Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=b0d2c098e77c-140924-101230-livees.mp4) |
 | Italiano | 1000 m Senior Men Qualitifcation | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=54360bb497b3-140924-101230-liveit.mp4) |
-| Italiano | 1000 m Senior Women Qualitifcation | [download](#) |
-| Italiano | 500 m Junior Men Qualitifcation | [download](#) |
-| Italiano | 500 m Junior Women Qualitifcation | [download](#) |
-| Italiano | titolo | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=9e88e19151c4-140924-101230-liveit.mp4) |
-| Italiano | titolo | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=e62c3acc0d3c-140924-101230-liveit.mp4) |
-| Italiano | titolo | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=3783d3369eb0-140924-101230-liveit.mp4) |
+| Italiano | 1000 m Senior Women Qualitifcation | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=9e88e19151c4-140924-101230-liveit.mp4) |
+| Italiano | 500 m Junior Men Qualitifcation | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=e62c3acc0d3c-140924-101230-liveit.mp4) |
+| Italiano | 500 m Junior Women Qualitifcation | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=3783d3369eb0-140924-101230-liveit.mp4) |
 | Italiano | 10000 m Senior Men Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=f30c55f51b2c-140924-101230-liveit.mp4) |
 | Italiano | 10000 m Senior Women Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=d8b9a14b837a-140924-101230-liveit.mp4) |
 | Italiano | 5000 m Junior Men Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=814ac5ea4198-140924-101230-liveit.mp4) |
