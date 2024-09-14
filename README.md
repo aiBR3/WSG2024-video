@@ -1,10 +1,10 @@
 # WSG2024-video
 
 - Regia
-    - [FISR TV](https://fisrtv.it/) (qualità della trasmissione bassa)
+    - FISR TV (qualità della trasmissione bassa)
         - [indirizzi diretti](#fisr-tv)
-    - [Rai Play](https://www.raiplay.it/guidatv?channel=rai-sport) (qualità della trasmissione alta)
-    - [World Skate TV](https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024)
+    - Rai Play (qualità della trasmissione alta)
+    - World Skate TV
         - [indirizzi diretti](#world-skate-tv)
 
 ## Indirizzi diretti
@@ -13,7 +13,7 @@ Copiare questi indirizzi e incollarli nel *browser* per guardare la trasmissione
 
 Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/) (o su applicazioni simili) per registrare il video nel computer.
 
-### FISR TV
+### FISR TV ([link al sito](https://fisrtv.it/))
 
 ##### Trasmissione *2024-09-13 08:15 pista*
 
@@ -22,7 +22,11 @@ Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/
 - `https://play.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/022299/playlist.m3u8`
 - `https://live-edge-ams-1.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/live-corsa-it/index.m3u8`
 
-### World Skate TV
+### Rai Play ([link al sito](https://www.raiplay.it/guidatv?channel=rai-sport))
+
+Al momento non ci sono indirizzi.
+
+### World Skate TV ([link al sito](https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024))
 
 <img src="README/wsg2024.jpeg" width="300 rem">
 
