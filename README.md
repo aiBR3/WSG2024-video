@@ -68,6 +68,8 @@ La World Skate permette il download di queste registrazioni (dalla più recente 
 | :it: italiano | 200mt DUAL TT Qualification Junior Women / Junior Men / Senior Women / Senior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=70b66e050555-130924-125423-livecorsait.mp4) |
 | :it: italiano | 200mt DUAL TT Qualification Junior Women / Junior Men / Senior Women / Senior Men (part 2) | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=2d3545cf402e-130924-125423-livecorsait.mp4) |
 
+---
+
 ## Registrare con VLC
 
 1. ![1](README/vlc1.png) Aprire VLC e selezionare il comando *Open Network...*
