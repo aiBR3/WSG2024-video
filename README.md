@@ -39,7 +39,7 @@ Vedi le [istruzioni per scaricare](#scaricare-con-yt-dlp).
 
 - `https://play.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF6630274/022263/ml/playlist.m3u8` (funziona solo dopo aver fatto *login*)
 
-### Download ([pagina esterna]((https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024)))
+### Download ([pagina esterna](https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024))
 
 La World Skate permette il download di queste registrazioni (dalla più recente alla più vecchia pubblicata):
 
