@@ -1,9 +1,9 @@
 # WSG2024-video
 
 - Regia
-    a. Prova
-    b. Prova
-    c. Prova
+    - [FISR TV](https://fisrtv.it/)
+    - [Rai Play](https://www.raiplay.it/guidatv?channel=rai-sport)
+    - [World Skate TV](https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024)
 
 ```mermaid
 flowchart LR
