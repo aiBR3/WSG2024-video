@@ -2,10 +2,10 @@
 
 - Regia
     - FISR TV (qualità della trasmissione bassa)
-        - [indirizzi diretti](#fisr-tv)
+        - [indirizzi diretti](#fisr-tv-link-al-sito)
     - Rai Play (qualità della trasmissione alta)
     - World Skate TV
-        - [indirizzi diretti](#world-skate-tv)
+        - [indirizzi diretti](#world-skate-tv-link-al-sito)
 
 ## Indirizzi diretti
 
