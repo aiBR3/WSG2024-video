@@ -7,7 +7,7 @@ flowchart LR
     Regia -- qualità media/bassa --> FISR[("<strong>FISR TV</strong><br><a href="https://fisrtv.it/" target="_blank">link al sito</a>")]
     WSG --o WSG1["indirizzi diretti"]
     FISR --o FISR1["indirizzi diretti"]
-    click WSG1 "https://github.com/aiBR3/WSG2024-video#world-skate-tv"
+    click WSG1 "#world-skate-tv"
     click FISR1 "https://github.com/aiBR3/WSG2024-video#trasmissione-2024-09-13-0815-pista"
 ```
 
