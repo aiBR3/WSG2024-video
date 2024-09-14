@@ -13,7 +13,7 @@ Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/
 - `https://play.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/022299/playlist.m3u8`
 	- `https://live-edge-ams-1.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/live-corsa-it/index.m3u8`
 
-## Rai Play ([sito](https://www.raiplay.it/guidatv?channel=rai-sport))
+## Rai Play ([sito](https://www.raiplay.it/guidatv?channel=raiplay-sport-1))
 
 <img src="README/raiplay_wsg2024.jpeg" width="300 rem">
 
