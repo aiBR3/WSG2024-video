@@ -17,7 +17,19 @@ Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/
 
 <img src="README/raiplay_wsg2024.jpeg" width="300 rem">
 
+I possibili *canali TV/online* da controllare sono:
+
+- Rai Sport `https://www.raiplay.it/dirette/raisport`
+- Rai Play `https://www.raiplay.it/dirette/raiplay`
+- Rai Play 2 `https://www.raiplay.it/dirette/raiplay2`
+- Rai Play 3 `https://www.raiplay.it/dirette/raiplay3`
+- Rai Play Sport 1 `https://www.raiplay.it/dirette/raiplaysport1`
+- Rai Play Sport 2 `https://www.raiplay.it/dirette/raiplaysport2`
+- Rai Play Sport 3 `https://www.raiplay.it/dirette/raiplaysport3`
+
 Al momento non ci sono indirizzi diretti.
+
+Vedi le [istruzioni per scaricare](#scaricare-con-yt-dlp).
 
 ## World Skate TV ([link al sito](https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024))
 
@@ -90,3 +102,13 @@ La World Skate permette il download di queste registrazioni (dalla più recente 
 5. Scegliere una cartella di salvataggio e il nome della registrazione
 	- Per questo evento l'estensione *.ts* e il formato *MPEG TS* sono corretti
 6. Cliccare sul pulsante *OK* e poi su quello *Open*, la trasmissione video viene contemporaneamente riprodotta e registrata
+
+## Scaricare con yt-dlp
+
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) è un comando da terminale che scarica i filmati da qualsiasi sito web.
+
+Il comando completo di opzioni è `yt-dlp -f - -o "~/Downloads/%(title)s\ [%(id)s]\ [%(format_id)s].%(ext)s" "https://example.com/"` (sostituire *https://example.com/* dentro alle virgolette con l'indirizzo corretto)
+
+Se ce ne sono, durante l'esecuzione vengono elencate tutte le varianti del filmato (di solito si tratta della risoluzione, per esempio *360/480/720/1080/ecc.*) e viene chiesto di scegliere quale variante scaricare (con il tasto *Invio* si sceglie la qualità di default).
+
+Esempio per scaricare un filmato da *Rai Play Sport 1*: `yt-dlp -f - -o "~/Downloads/%(title)s\ [%(id)s]\ [%(format_id)s].%(ext)s" "https://www.raiplay.it/dirette/raiplaysport1"`
