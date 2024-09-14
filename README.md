@@ -2,6 +2,7 @@
 
 - Regia
     - [FISR TV](https://fisrtv.it/)
+        - [indirizzi diretti](#fisr-tv)
     - [Rai Play](https://www.raiplay.it/guidatv?channel=rai-sport)
     - [World Skate TV](https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024)
 
