@@ -107,7 +107,7 @@ La World Skate permette il download di queste registrazioni (dalla più recente 
 
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) è un comando da terminale che scarica i filmati da qualsiasi sito web.
 
-Il comando completo di opzioni è `yt-dlp -f - -o "~/Downloads/%(title)s\ [%(id)s]\ [%(format_id)s].%(ext)s" "https://example.com/"` (sostituire *https://example.com/* dentro alle virgolette con l'indirizzo corretto)
+Il comando completo di opzioni è `yt-dlp -f - -o "~/Downloads/%(title)s\ [%(id)s]\ [%(format_id)s].%(ext)s" "https://example.com/"` (sostituire `https://example.com/` dentro alle virgolette con l'indirizzo corretto)
 
 Se ce ne sono, durante l'esecuzione vengono elencate tutte le varianti del filmato (di solito si tratta della risoluzione, per esempio *360/480/720/1080/ecc.*) e viene chiesto di scegliere quale variante scaricare (con il tasto *Invio* si sceglie la qualità di default).
 
