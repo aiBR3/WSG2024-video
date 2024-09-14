@@ -12,7 +12,7 @@ flowchart LR
 
 Copiare questi indirizzi e incollarli nel *browser* per guardare la diretta senza bisogno di un *account*.
 
-Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/) (o su applicazioni simili) per registrare le trasmissioni video.
+Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/) (o su applicazioni simili) per registrare le trasmissioni video nel computer.
 
 ##### FISR TV - 2024-09-13 08:15 pista
 
