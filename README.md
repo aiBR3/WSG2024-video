@@ -27,6 +27,13 @@ La World Skate permette il download di queste registrazioni (dalla più recente 
 
 | LINGUA | TITOLO | INDIRIZZO |
 |---|---|---|
+| :uk: inglese  | 1000 m Senior Men Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=b60f2c9a2fbf-140924-101229-liveen.mp4) |
+| :uk: inglese  | 10000 m Senior Men Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=8427cbedf6a5-140924-101229-liveen.mp4) |
+| :uk: inglese  | 1000 m Senior Women Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=450c76ebc9da-140924-101229-liveen.mp4) |
+| :uk: inglese  | 500 m Junior Men Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=7e35c87f3a53-140924-101229-liveen.mp4) |
+| :uk: inglese  | 500 m Junior Women Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=891a53f4cfbc-140924-101229-liveen.mp4) |
+| :uk: inglese  | 10000 m Senior Women Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=00850387c031-140924-101229-liveen.mp4) |
+| :uk: inglese  | 5000 m Junior Men Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=13d630c2e2e9-140924-101229-liveen.mp4) |
 | :es: spagnolo | 1000m Senior Men Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=7f9b2cc0111b-140924-101230-livees.mp4) |
 | :es: spagnolo | 1000m Senior Women Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=11b2e600365d-140924-101230-livees.mp4) |
 | :es: spagnolo | 500m Junior Men Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=eaf86c1f0956-140924-101230-livees.mp4) |
