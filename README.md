@@ -28,6 +28,7 @@ La World Skate permette il download diretto di queste registrazioni video.
 
 | LINGUA | TITOLO | INDIRIZZO |
 |---|---|---|
+| X | X | X |
 | Spagnolo | 1000m Senior Men Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=7f9b2cc0111b-140924-101230-livees.mp4) |
 | Spagnolo | 1000m Senior Women Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=11b2e600365d-140924-101230-livees.mp4) |
 | Spagnolo | 500m Junior Men Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=eaf86c1f0956-140924-101230-livees.mp4) |
