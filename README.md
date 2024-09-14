@@ -1,27 +1,26 @@
 # WSG2024-video
 
 - Regia
-    - [FISR TV](https://fisrtv.it/)
+    - [FISR TV](https://fisrtv.it/) (qualità della trasmissione bassa)
         - [indirizzi diretti](#fisr-tv)
-    - [Rai Play](https://www.raiplay.it/guidatv?channel=rai-sport)
+    - [Rai Play](https://www.raiplay.it/guidatv?channel=rai-sport) (qualità della trasmissione alta)
     - [World Skate TV](https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024)
-
-```mermaid
-flowchart LR
-    Regia((Regia)) --> WSG[("<strong>World Skate TV</strong><br><a href="https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024" target="_blank">link al sito</a>")]
-    Regia -- qualità alta --> Rai[("<strong>Rai Play</strong><br><a href="https://www.raiplay.it/guidatv?channel=rai-sport" target="_blank">link al sito</a>")]
-    Regia -- qualità media/bassa --> FISR[("<strong>FISR TV</strong><br><a href="https://fisrtv.it/" target="_blank">link al sito</a>")]
-    WSG --o WSG1["indirizzi diretti"]
-    FISR --o FISR1["indirizzi diretti"]
-    click WSG1 "https://github.com/aiBR3/WSG2024-video#world-skate-tv"
-    click FISR1 "https://github.com/aiBR3/WSG2024-video#trasmissione-2024-09-13-0815-pista"
-```
+        - [indirizzi diretti](#world-skate-tv)
 
 ## Indirizzi diretti
 
 Copiare questi indirizzi e incollarli nel *browser* per guardare la trasmissione **senza bisogno di un account**.
 
 Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/) (o su applicazioni simili) per registrare il video nel computer.
+
+### FISR TV
+
+##### Trasmissione *2024-09-13 08:15 pista*
+
+<img src="README/2024-09-13_0815_pista.jpeg" width="300 rem">
+
+- `https://play.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/022299/playlist.m3u8`
+- `https://live-edge-ams-1.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/live-corsa-it/index.m3u8`
 
 ### World Skate TV
 
@@ -71,12 +70,3 @@ La World Skate permette il download di queste registrazioni (dalla più recente 
 | :it: italiano | 5k Points qualification Junior Women / Junior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=433406b5c5ba-130924-125423-livecorsait.mp4) |
 | :it: italiano | 200mt DUAL TT Qualification Junior Women / Junior Men / Senior Women / Senior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=70b66e050555-130924-125423-livecorsait.mp4) |
 | :it: italiano | 200mt DUAL TT Qualification Junior Women / Junior Men / Senior Women / Senior Men (part 2) | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=2d3545cf402e-130924-125423-livecorsait.mp4) |
-
-### FISR TV
-
-##### Trasmissione *2024-09-13 08:15 pista*
-
-<img src="README/2024-09-13_0815_pista.jpeg" width="300 rem">
-
-- `https://play.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/022299/playlist.m3u8`
-- `https://live-edge-ams-1.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/live-corsa-it/index.m3u8`
