@@ -19,7 +19,7 @@ Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/
 
 <img src="README/wsg2024.jpeg" width="300 rem">
 
-La World Skate permette il download diretto di queste registrazioni (dalla più recente alla più vecchia pubblicata):
+La World Skate permette il download di queste registrazioni (dalla più recente alla più vecchia pubblicata):
 
 | LINGUA | TITOLO | INDIRIZZO |
 |---|---|---|
