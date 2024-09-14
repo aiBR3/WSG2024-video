@@ -12,7 +12,6 @@ flowchart LR
 
 ### FISR TV - 2024-09-13 08:15 pista
 
-![miniatura1](README/2024-09-13_0815_pista.jpeg)
-<img src="README/2024-09-13_0815_pista.jpeg" width="10 rem" />
+<img src="README/2024-09-13_0815_pista.jpeg" width="100 rem" />
 
 `https://play.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/022299/playlist.m3u8`
