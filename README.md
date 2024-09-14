@@ -25,7 +25,7 @@ Al momento non ci sono indirizzi diretti.
 
 <img src="README/worldskatetv_wsg2024.jpeg" width="300 rem">
 
-- gli stessi della FISR?
+- gli stessi indirizzi della FISR?
 
 ### Download
 
