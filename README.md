@@ -8,18 +8,20 @@ Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/
 
 ### Trasmissione *2024-09-13 08:15 pista*
 
-<img src="README/2024-09-13_0815_pista.jpeg" width="300 rem">
+<img src="README/fisrtv_2024-09-13_0815_pista.jpeg" width="300 rem">
 
 - `https://play.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/022299/playlist.m3u8`
 - `https://live-edge-ams-1.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/live-corsa-it/index.m3u8`
 
 ## Rai Play ([link al sito](https://www.raiplay.it/guidatv?channel=rai-sport))
 
+<img src="README/raiplay_wsg2024.jpeg" width="300 rem">
+
 Al momento non ci sono indirizzi.
 
 ## World Skate TV ([link al sito](https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024))
 
-<img src="README/wsg2024.jpeg" width="300 rem">
+<img src="README/worldskatetv_wsg2024.jpeg" width="300 rem">
 
 La World Skate permette il download di queste registrazioni (dalla più recente alla più vecchia pubblicata):
 
