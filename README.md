@@ -1,12 +1,7 @@
 # WSG2024-video
 
 ```mermaid
-flowchart LR
-    Regia((Regia)) --> WSG[("<strong>World Skate TV</strong><br><a href="https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024" target="_blank">link al sito</a>")]
-    Regia -- qualità alta --> Rai[("<strong>Rai Play</strong><br><a href="https://www.raiplay.it/guidatv?channel=rai-sport" target="_blank">link al sito</a>")]
-    Regia -- qualità media/bassa --> FISR[("<strong>FISR TV</strong><br><a href="https://fisrtv.it/" target="_blank">link al sito</a>")]
-    WSG --o WSG1["<a href="https://github.com/aiBR3/WSG2024-video#world-skate-tv">indirizzi diretti</a>"]
-    FISR --o FISR1["<a href="https://github.com/aiBR3/WSG2024-video#trasmissione-2024-09-13-0815-pista">indirizzi diretti</a>"]
+info
 ```
 
 ## Indirizzi diretti
