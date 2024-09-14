@@ -59,7 +59,7 @@ La World Skate permette il download diretto di queste registrazioni video.
 | italiano | 200 m Junior Women | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=e7fe0aa564d1-130924-194132-liveit.mp4) |
 | Spagnolo | 200 m Junior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=c19f03ce8db3-130924-194132-livees.mp4) |
 | Spagnolo | 200 m Junior Women | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=1d99317ac6fa-130924-194132-livees.mp4) |
-| Inglese | 200mt DUAL TT Qualification Junior Women / Junior Men / Senior Women / Senior Men | Speed (part I) | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=aa64e729ec60-130924-084844-liveen.mp4) |
+| Inglese | 200mt DUAL TT Qualification Junior Women / Junior Men / Senior Women / Senior Men (part I) | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=aa64e729ec60-130924-084844-liveen.mp4) |
 | Inglese | 10K Elimination Qualification Senior Women / Senior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=64ec325084a0-130924-124618-liveen.mp4) |
 | Inglese | 5k Points qualification Junior Women / Junior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=daf23d399698-130924-124618-liveen.mp4) |
 | Inglese | 200mt DUAL TT Qualification Junior Women / Junior Men / Senior Women / Senior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=be016842dde7-130924-124618-liveen.mp4) |
