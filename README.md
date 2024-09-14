@@ -1,7 +1,5 @@
 # WSG2024-video
 
-**Ultimo aggiornamento: sabato 14 settembre 16:22**
-
 ```mermaid
 flowchart LR
     Regia((Regia)) --> WSG[("<strong>World Skate TV</strong><br><i>commento inglese</i><br><br><a href="https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024" target="_blank">link al sito</a>")]
