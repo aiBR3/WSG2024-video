@@ -49,9 +49,21 @@ La World Skate permette il download diretto di queste registrazioni video.
 | Italiano | 5000 m Junior Women Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=128ff346932b-140924-101230-liveit.mp4) |
 | Inglese | 200 m Senior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=4b4d3fd3c70a-140924-062449-liveen.mp4) |
 | Inglese | 200 m Senior Women | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=ab6adffc516f-140924-062449-liveen.mp4) |
-| Inglese | titolo | [download](#) |
-| Inglese | titolo | [download](#) |
-| Inglese | titolo | [download](#) |
-| Inglese | titolo | [download](#) |
+| Italiano | 200 m Senior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=6e2579d1f88d-140924-062501-liveit.mp4) |
+| Italiano | 200 m Senior Women | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=85f4c32618d5-140924-062501-liveit.mp4) |
+| Spagnolo | 200 m Senior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=23fab98f3f45-140924-062516-livees.mp4) |
+| Spagnolo | 200 m Senior Women | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=97c463269042-140924-062516-livees.mp4) |
+| Inglese | 200 m Junior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=00407bd2c611-130924-194129-liveen.mp4) |
+| Inglese | 200 m Junior Women | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=83031e907273-130924-194129-liveen.mp4) |
+| lingua | titolo | [download](#) |
+| lingua | titolo | [download](#) |
+| lingua | titolo | [download](#) |
+| lingua | titolo | [download](#) |
+| lingua | titolo | [download](#) |
+| lingua | titolo | [download](#) |
+| lingua | titolo | [download](#) |
+| lingua | titolo | [download](#) |
+| lingua | titolo | [download](#) |
+| lingua | titolo | [download](#) |
 | lingua | titolo | [download](#) |
 | lingua | titolo | [download](#) |
