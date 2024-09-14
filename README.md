@@ -1,5 +1,7 @@
 # WSG2024-video
 
+**Ultimo aggiornamento: sabato 14 settembre 16:22**
+
 ```mermaid
 flowchart LR
     Regia((Regia)) --> WSG[("<strong>World Skate TV</strong><br><i>commento inglese</i><br><br><a href="https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024" target="_blank">link al sito</a>")]
@@ -11,9 +13,9 @@ flowchart LR
 
 ## Indirizzi diretti
 
-Copiare questi indirizzi e incollarli nel *browser* per guardare la diretta **senza bisogno di un account**.
+Copiare questi indirizzi e incollarli nel *browser* per guardare la trasmissione **senza bisogno di un account**.
 
-Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/) (o su applicazioni simili) per registrare le trasmissioni video nel computer.
+Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/) (o su applicazioni simili) per registrare il video nel computer.
 
 ### World Skate TV
 
