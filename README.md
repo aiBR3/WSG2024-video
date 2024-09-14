@@ -6,7 +6,7 @@ Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/
 
 ## FISR TV ([sito](https://fisrtv.it/))
 
-### Trasmissione *"Pista - Live Di Montesilvano dalle 8:30 del 13 settembre"* ([pagina esterna](https://fisrtv.it/live?l=A217BCEBB2594BDF8FE2E65131DBF663022299))
+### Trasmissione *"Pista - Live Di Montesilvano dalle 8:30 del 13 settembre"* ([pagina](https://fisrtv.it/live?l=A217BCEBB2594BDF8FE2E65131DBF663022299))
 
 <img src="README/fisrtv_2024-09-13_0815_pista.jpeg" width="300 rem">
 
@@ -33,13 +33,13 @@ Vedi le [istruzioni per scaricare](#scaricare-con-yt-dlp).
 
 ## World Skate TV ([sito](https://worldskate.tv))
 
-### Trasmissione *"13/09/2024 07:00"* ([pagina esterna](https://worldskate.tv/live?l=A217BCEBB2594BDF8FE2E65131DBF663022263))
+### Trasmissione *"13/09/2024 07:00"* ([pagina](https://worldskate.tv/live?l=A217BCEBB2594BDF8FE2E65131DBF663022263))
 
 <img src="README/worldskatetv_wsg2024.jpeg" width="300 rem">
 
 - `https://play.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF6630274/022263/ml/playlist.m3u8` (funziona solo dopo aver fatto *login*)
 
-### Download ([pagina esterna](https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024))
+### Download ([pagina](https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024))
 
 La World Skate permette il download di queste registrazioni (dalla più recente alla più vecchia pubblicata):
 
