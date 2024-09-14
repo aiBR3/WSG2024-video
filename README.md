@@ -1,5 +1,10 @@
 # WSG2024-video
 
+- Regia
+    a. Prova
+    b. Prova
+    c. Prova
+
 ```mermaid
 flowchart LR
     Regia((Regia)) --> WSG[("<strong>World Skate TV</strong><br><a href="https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024" target="_blank">link al sito</a>")]
