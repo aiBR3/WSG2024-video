@@ -86,7 +86,7 @@ La World Skate permette il download di queste registrazioni (dalla più recente 
 1. ![1](README/vlc1.png) Aprire VLC e selezionare il comando *Open Network...*
 2. ![2](README/vlc2.png) Incollare l'indirizzo della trasmissione video
 3. attivare la casella *Stream optput:* e cliccare sul pulsante *Settings...*
-4. ![3](README/vlc3.png) Attivare la casella per mostrare il video mentre viene registrato
+4. ![3](README/vlc3.png) Attivare la casella per mostrare il video mentre viene registrato (*Display the stream locally*)
 5. Scegliere una cartella di salvataggio e il nome della registrazione
 	- Per questo evento l'estensione *.ts* e il formato *MPEG TS* sono corretti
-6. Cliccare su *OK*, la trasmissione video viene contemporaneamente riprodotta e registrata
+6. Cliccare sul pulsante *OK*, la trasmissione video viene contemporaneamente riprodotta e registrata
