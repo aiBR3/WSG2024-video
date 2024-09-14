@@ -2,7 +2,7 @@
 
 Copiare questi indirizzi e incollarli nel *browser* per guardare la trasmissione **senza bisogno di un account**.
 
-Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/) (o su applicazioni simili) per registrare il video nel computer.
+Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/) (o su applicazioni simili) per [registrare](#registrare-con-vlc) il video nel computer.
 
 ## FISR TV ([link al sito](https://fisrtv.it/))
 
@@ -80,3 +80,13 @@ La World Skate permette il download di queste registrazioni (dalla più recente 
 | :it: italiano | 5k Points qualification Junior Women / Junior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=433406b5c5ba-130924-125423-livecorsait.mp4) |
 | :it: italiano | 200mt DUAL TT Qualification Junior Women / Junior Men / Senior Women / Senior Men | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=70b66e050555-130924-125423-livecorsait.mp4) |
 | :it: italiano | 200mt DUAL TT Qualification Junior Women / Junior Men / Senior Women / Senior Men (part 2) | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=2d3545cf402e-130924-125423-livecorsait.mp4) |
+
+## Registrare con VLC
+
+1. Aprire VLC e selezionare il comando *Open Network...*
+2. Incollare l'indirizzo della trasmissione video
+3. attivare la casella *Stream optput:* e cliccare sul pulsante *Settings...*
+4. Attivare la casella per mostrare il video mentre viene registrato
+5. Scegliere una cartella di salvataggio e il nome della registrazione
+	- Per questo evento l'estensione *.ts* e il formato *MPEG TS* sono corretti
+6. Cliccare su *OK*, la trasmissione video viene contemporaneamente riprodotta e registrata
