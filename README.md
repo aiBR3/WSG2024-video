@@ -84,9 +84,9 @@ La World Skate permette il download di queste registrazioni (dalla più recente 
 
 Il comando completo di opzioni è questo (sostituire `https://example.com/` dentro alle virgolette con l'indirizzo corretto):
 
-	```bash
-	yt-dlp -f - -o "~/Downloads/%(title)s\ [%(id)s]\ [%(format_id)s].%(ext)s" "https://example.com/"
-	```
+```bash
+yt-dlp -f - -o "~/Downloads/%(title)s\ [%(id)s]\ [%(format_id)s].%(ext)s" "https://example.com/"
+```
 
 Durante l'esecuzione vengono elencate tutte le varianti del filmato (di solito si tratta di risoluzioni multiple, per esempio *360/480/720/1080/ecc.*) e viene chiesto di scegliere quale variante scaricare (con il tasto *Invio* si sceglie la qualità di default).
 
