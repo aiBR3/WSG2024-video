@@ -66,7 +66,7 @@ La World Skate permette il download di queste registrazioni (dalla più recente 
 
 ### FISR TV
 
-##### FISR TV - 2024-09-13 08:15 pista
+##### Trasmissione *2024-09-13 08:15 pista*
 
 <img src="README/2024-09-13_0815_pista.jpeg" width="300 rem">
 
