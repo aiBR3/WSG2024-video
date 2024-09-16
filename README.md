@@ -51,13 +51,13 @@ Vedi le [istruzioni per scaricare](#scaricare-con-yt-dlp).
 World Skate TV (e adesso anche FISR TV) permette il download di queste registrazioni (dalla più recente alla più vecchia pubblicata):
 
 <!--
-https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=5785a05a7a21-140924-192329-liveit.mp4
-https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=6899bc57bc12-140924-192329-liveit.mp4
-https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=ff28c257550e-140924-192329-liveit.mp4
-https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=0c291be4ddcd-140924-192329-liveit.mp4
-https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=2bb9b5804098-140924-192329-liveit.mp4
-https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=ef448089c003-140924-192329-liveit.mp4
-https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=03d080f63054-140924-192329-liveit.mp4
+| :it: italiano | ? | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=5785a05a7a21-140924-192329-liveit.mp4) |
+| :it: italiano | ? | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=6899bc57bc12-140924-192329-liveit.mp4) |
+| :it: italiano | ? | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=ff28c257550e-140924-192329-liveit.mp4) |
+| :it: italiano | ? | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=0c291be4ddcd-140924-192329-liveit.mp4) |
+| :it: italiano | ? | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=2bb9b5804098-140924-192329-liveit.mp4) |
+| :it: italiano | ? | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=ef448089c003-140924-192329-liveit.mp4) |
+| :it: italiano | ? | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=001&f=03d080f63054-140924-192329-liveit.mp4) |
 -->
 
 | LINGUA | TITOLO | INDIRIZZO |
