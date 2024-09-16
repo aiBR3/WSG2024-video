@@ -6,6 +6,13 @@ Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/
 
 ## FISR TV ([sito](https://fisrtv.it/))
 
+### Trasmissione *"Pista - Live Di Montesilvano dalle 9:00 del 16 settembre"* ([pagina](https://fisrtv.it/live?l=A217BCEBB2594BDF8FE2E65131DBF663022299))
+
+<img src="README/fisrtv_2024-09-13_0815_pista.jpeg" width="300 rem">
+
+- `https://play.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/022299/playlist.m3u8`
+	- `https://live-edge-ams-1.cdn.enetres.net/A217BCEBB2594BDF8FE2E65131DBF663023/live-corsa-it/index.m3u8`
+
 ### Trasmissione *"Pista - Live Di Montesilvano dalle 8:30 del 13 settembre"* ([pagina](https://fisrtv.it/live?l=A217BCEBB2594BDF8FE2E65131DBF663022299))
 
 <img src="README/fisrtv_2024-09-13_0815_pista.jpeg" width="300 rem">
@@ -41,10 +48,30 @@ Vedi le [istruzioni per scaricare](#scaricare-con-yt-dlp).
 
 ### Download ([pagina](https://worldskate.tv/world-skate-games/wsg-2024/wsg-inline-speed-2024))
 
-La World Skate permette il download di queste registrazioni (dalla più recente alla più vecchia pubblicata):
+World Skate TV (e adesso anche FISR TV) permette il download di queste registrazioni (dalla più recente alla più vecchia pubblicata):
 
 | LINGUA | TITOLO | INDIRIZZO |
 |---|---|---|
+| :it: italiano | 500 m Senior Men - Quarter Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=6c5bd9c49cda-150924-114905-liveit.mp4) |
+| :it: italiano | 500 m Senior Women - Quarter Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=3b899ed07be5-150924-114905-liveit.mp4) |
+| :it: italiano | 3000 m Senior Men - Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=6f20fb56cd45-150924-114905-liveit.mp4) |
+| :it: italiano | 3000 m Senior Women - Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=e59f60874fdb-150924-114905-liveit.mp4) |
+| :it: italiano | 3000 m Junior Women- Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=480c294e268a-150924-114905-liveit.mp4) |
+| :it: italiano | 500 m Senior Men- Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=5bcf264ff2c4-150924-114905-liveit.mp4) |
+| :it: italiano | 500 m Senior Women - Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=d8cdb1946177-150924-114905-liveit.mp4) |
+| :it: italiano | 1000 m Junior Men - Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=cb01d461184e-150924-114905-liveit.mp4) |
+| :it: italiano | 1000 m Junior Women - Qualification | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=442d2971faad-150924-114905-liveit.mp4) |
+| :it: italiano | 1000 m Senior Women - Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=528610229f40-140924-192329-liveit.mp4) |
+| :it: italiano | 500 m Junior Men - Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=14d7814f7e2f-140924-192329-liveit.mp4) |
+| :it: italiano | 500 m Junior Women - Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=7558139d3558-140924-192329-liveit.mp4) |
+| :it: italiano | 5000 m Senior Men - Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=b1b4d0cfb458-140924-192329-liveit.mp4) |
+| :it: italiano | 5000 m Senior Women - Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=76ce08a8e313-140924-192329-liveit.mp4) |
+| :it: italiano | 10000 m Junior Men- Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=7f182b7bffcc-140924-192329-liveit.mp4) |
+| :it: italiano | 10000 m Junior Women- Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=d734ea9f9ef1-140924-192329-liveit.mp4) |
+| :it: italiano | 1000 m Senior Men- Semi Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=335d411476b4-140924-192329-liveit.mp4) |
+| :it: italiano | 1000 m Senior Women- Semi Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=3e3b7b6e7615-140924-192329-liveit.mp4) |
+| :it: italiano | 500 m Junior Men- Semi Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=acf96b5ecfc8-140924-192329-liveit.mp4) |
+| :it: italiano | 500 m Junior Women - Semi Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=6ad4a45ba26e-140924-192329-liveit.mp4) |
 | :it: italiano | 5000 m Sprint Senior Men- Semi Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=99c39ca19301-140924-141129-liveit.mp4) |
 | :it: italiano | 5000 m Elimination Senior Women- Semi Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=727e9d439532-140924-141129-liveit.mp4) |
 | :it: italiano | 10000 m Elimination Junior Men- Semi Final | [download](https://progressive.enetres.net/getMedia.php?u=A217BCEBB2594BDF8FE2E65131DBF663&c=008&f=76d358696194-140924-141129-liveit.mp4) |
