@@ -6,6 +6,10 @@ Questi indirizzi possono essere incollati su [VLC](https://www.videolan.org/vlc/
 
 ## FISR TV ([sito](https://fisrtv.it/))
 
+### Trasmissione *"Mondiale Pattinaggio Corsa 100 mtrs - Live di Pescara dalle 9.00 del 19 settembre"*
+
+- `https://players.cdn.enetres.net/live/A217BCEBB2594BDF8FE2E65131DBF663022299`
+
 ### Trasmissione *"Pista - Live Di Montesilvano dalle 9:00 del 16 settembre"* ([pagina](https://fisrtv.it/live?l=A217BCEBB2594BDF8FE2E65131DBF663022299))
 
 <img src="README/fisrtv_2024-09-13_0815_pista.jpeg" width="300 rem">
